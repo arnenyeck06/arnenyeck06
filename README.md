@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Arne Nyeck, I am a data scientist that would like to make a positive impact via analytics.
+I'm Arne Nyeck, I am a data scientist currently pursing a Master's degree.
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Economist turned data scientist
