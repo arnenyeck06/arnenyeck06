@@ -30,3 +30,5 @@ I'm Arne Nyeck Nyeck, currently pursing a Master's degree in Data Science. I enj
 - Big Data systems
 
 
+
+JESUS IS KING!
