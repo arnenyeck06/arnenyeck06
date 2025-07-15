@@ -25,7 +25,7 @@ I'm Arne Nyeck Nyeck, currently pursing a Master's degree in Data Science. I enj
 
 ### Relevant Courses
 - Database management System
-- Spatial Statistics
+- Inferential statitical packages(r)_
 - Big Data systems
 
 
